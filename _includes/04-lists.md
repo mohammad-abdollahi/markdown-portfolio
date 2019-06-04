@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* :computer:
+* :notebook_with_decorative_cover:
+* :soccer:
+* :pizza:
