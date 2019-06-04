@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_**Data Science**_<br> 
+_**Web Programming**_ <br> 
+_**Neural Networks**_<br> 
+_**Artificial Intelligence**_<br> 
+_**Web Security**_<br> 
+_**Python**_ <br> 
+_**Django**_<br> 
